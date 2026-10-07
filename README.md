@@ -201,5 +201,4 @@
 
 *Deux personnes se sont présentées comme des agents Orange Money. Elles nous ont expliqué qu'elles étaient en mission pour promouvoir le service et transformer nos SIM en SIM commerciales. Nous leur avons donné accès à nos téléphones. Après leur départ, nous avons constaté que l'argent présent sur nos comptes avait disparu. 
 
-*Habitante et préparatrice en pharmacie, Harmonie repère une promotion sur des sandales et passe commande en ligne. Ne voyant pas son colis arriver, elle reçoit un SMS frauduleux lui demandant de reprogrammer la livraison. Elle clique sur le lien et fournit ses coordonnées bancaires pour régler de prétendus "frais de livraison" de 2,50 €. Peu après, un faux conseiller du service antifraude de sa banque (la Caisse d'Épargne) l'appelle. Prétextant stopper un piratage en cours, l'escroc lance un partage d'écran et dérobe ses codes d'accès en direct. Résultat : 1 424 € sont volés sur son compte, et sa banque refuse de la rembourser pour "négligence grave".
 
